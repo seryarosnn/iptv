@@ -10,24 +10,28 @@ https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-name="ТВЦ" tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/451/637/962/logo/medium_193ea5be318e4658a7571d32a2c3b966.png" tvg-id="TVC" group-title="Эфирные",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="https://tvtvtv.ru/icons/pyatnica.png" tvg-id="Friday" group-title="Эфирные",Пятница
+https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-name="Матч!" tvg-logo="https://iptvx.one/picons/match-tv.png" tvg-id="Match!" group-title="Спортивные",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="КХЛ ТВ" tvg-logo="https://dbtv.ru/upload/icons/kxl-hd.png" tvg-id="KHL-TV" group-title="Спортивные",КХЛ ТВ
+http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="NTV-Hit" group-title="Русский кинозал",НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-name="Домашний Int" tvg-logo="https://iptvx.one/picons/domashny-int.png" tvg-id="Home-Int" group-title="Развлекательные",Домашний Int
-http://178.124.152.238:8088/dom
-#EXTINF:-1 tvg-name="КУХНЯ-ТВ" tvg-logo="https://72it.ru/wp-content/uploads/2022/05/logo.png" tvg-id="KITCHEN-TV" group-title="Развлекательные",КУХНЯ-ТВ
-http://178.124.152.238:8088/kuhnya
+#EXTINF:-1 tvg-name="Nano HD" tvg-logo="https://iptvx.one/picons/nano-hd.png" tvg-id="Nano-HD" group-title="Познавательные",Nano HD
+http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Психология 21" tvg-logo="https://ortus-global.com/files/253/pshyhology21big.png" tvg-id="Psychology-21" group-title="Познавательные",Психология 21
 http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 tvg-name="РЖД ТВ" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608022154229879_31.png" tvg-id="Russian-Railways-TV" group-title="Познавательные",РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="RU TV" tvg-logo="https://www.tvreclama.ru/upload/iblock/917/91791ead3a431678326a03277477286b.png" tvg-id="RU-TV" group-title="Музыкальные",RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-name="Cinema" tvg-logo="https://iptvx.one/picons/cinema.png" tvg-id="Cinema" group-title="Кинозал",Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" tvg-id="VIJU+-PREMIERE-HD" group-title="Кино и сериалы",VIJU+ PREMIERE HD
+http://194.32.242.245/vippremiere/index.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 Action" tvg-logo="https://crdtv.net/b/templates/ottch/tv1000-action.png" tvg-id="viju-TV1000-Action" group-title="Кино и сериалы",viju TV1000 Action
 http://46.8.46.14/actiontv/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="https://navigator-tv.ru/logo/a%20prem.png" tvg-id="Amedia-Premium" group-title="Кино и сериалы",Amedia Premium
-http://93.125.121.61:8383/play/Intelsat85k812
-#EXTINF:-1 tvg-name="Криминальное HD" tvg-logo="https://epgx.site/p/kriminalnoe-hd.png" tvg-id="Crime-HD" group-title="Кино и сериалы",Криминальное HD
-http://stream-msk-14.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
 #EXTINF:-1 tvg-name="Русский детектив" tvg-logo="https://tricolor-38.ru/TRICOLOR_KANALY/rus_det.png" tvg-id="Russian-detective" group-title="Кино и сериалы",Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-name="Мир 24 HD" tvg-logo="https://iptvx.one/picons/mir24.png" tvg-id="Mir-24-HD" group-title="Информационные",Мир 24 HD
