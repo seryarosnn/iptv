@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="Russia",Матч ТВ Ⓢ
+#EXTINF:-1 tvg-name="Матч ТВ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="Russia",Матч ТВ Ⓢ
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
