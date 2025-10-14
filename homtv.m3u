@@ -16,6 +16,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Красная линия" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png"  tvg-id="Red-line" group-title="Эфирные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-name="КУХНЯ-ТВ" tvg-logo="https://72it.ru/wp-content/uploads/2022/05/logo.png"  tvg-id="KITCHEN-TV" group-title="Развлекательные",КУХНЯ-ТВ
+http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 tvg-name="КХЛ" tvg-logo="https://khlshop.com/image/cache/catalog/LOGO/khl%20logo-200x200h.png"  tvg-id="KHL" group-title="Спортивные",КХЛ
 http://84.245.224.71/KHLHD/mono.m3u8
 #EXTINF:-1 tvg-name="КХЛ Prime" tvg-logo="https://dbtv.ru/upload/icons/kxl-hd.png"  tvg-id="KHL-Prime" group-title="Спортивные",КХЛ Prime
@@ -24,6 +26,12 @@ http://192.162.64.99:5200/play/a046/index.m3u8
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Мир 24 HD" tvg-logo="https://iptvx.one/picons/mir24.png"  tvg-id="Mir-24-HD" group-title="Информационные",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Муз ТВ HD" tvg-logo="https://epg.iptvx.one/picons/muztv.png"  tvg-id="Muz-TV-HD" group-title="Музыкальные",Муз ТВ HD
+https://live-stream-11.ott.tricolor.tv/live/live/mus-tv/hls_enc_scte/mus-tv.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
+#EXTINF:-1 tvg-name="Музыка Первого" tvg-logo="https://oskolnet.ru/upload/iblock/9b6/8w44pso0fd9473u8g8gihvamqt1d6ysy/Muzyka-pervogo.png"  tvg-id="Music-of-the-First" group-title="Музыкальные",Музыка Первого
+https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 tvg-name="НТВ Сериал" tvg-logo="https://sevstar.net/iptv-channel-logo/4019.png"  tvg-id="NTV-Series" group-title="Кино и сериалы",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" tvg-logo="https://iptvx.one/picons/ntv-xit.png"  tvg-id="NTV-Hit" group-title="Кино и сериалы",НТВ Хит
@@ -33,6 +41,8 @@ https://streaming.skynetconnect.online/live/213-req_offset_28000000-req_window_0
 #EXTINF:-1 tvg-name="ОТР HD" tvg-logo="https://agrorus.expoforum.ru/wp-content/uploads/2022/06/otr.png"  tvg-id="OTR-HD" group-title="Эфирные",ОТР HD
 http://live-stream-18.ott.tricolor.tv/live/live/otr/hls_enc/otr.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 
+#EXTINF:-1 tvg-name="Первый музыкальный" tvg-logo="https://crdtv.net/b/templates/ottch/onemuz.png"  tvg-id="First-musical" group-title="Музыкальные",Первый музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-name="Первый HD" tvg-logo="https://thb.tildacdn.com/tild3538-3465-4339-a434-373465343539/-/resize/504x/logo-1tv.png"  tvg-id="First-HD" group-title="Эфирные",Первый HD
 https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 tvg-name="Психология 21" tvg-logo="https://ortus-global.com/files/253/pshyhology21big.png"  tvg-id="Psychology-21" group-title="Познавательные",Психология 21
@@ -54,14 +64,32 @@ http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-name="Соловьев Live HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608024648192029_57.png"  tvg-id="Soloviev-Live-HD" group-title="Новости",Соловьев Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
+#EXTINF:-1 tvg-name="СТС HD" tvg-logo="https://karnei4.github.io/convert/img/5799.png"  tvg-id="STS-HD" group-title="Развлекательные",СТС HD
+http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
+#EXTINF:-1 tvg-name="ТВ-3" tvg-logo="https://web.archive.org/web/20200703160504/https://static.tildacdn.com/tild3966-3933-4661-b962-633639386338/3TV3_logo_2015.png"  tvg-id="TV-3" group-title="Развлекательные",ТВ-3
+https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 tvg-name="Твое ТВ Юмор" tvg-logo="https://smotret-online.tv/images/tvojo-tv-yumor.png"  tvg-id="Your-TV-Humor" group-title="Эфирные",Твое ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-name="ТВЦ" tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/451/637/962/logo/medium_193ea5be318e4658a7571d32a2c3b966.png"  tvg-id="TVC" group-title="Эфирные",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ТНТ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPAXispSdd7kG4m-yrMGBXlBvx-k33ZSeFVI0jYEpUwIhZGeffKchxjkj2BgGlR1Qchtj_tPRBrEjkf-uSRvN_ekdXzv6O2cxoRxw5rnINHHCLylsD-5ybwBvImqRURt457ilbKNgzrZr/s1600/THT.png"  tvg-id="TNT" group-title="Эфирные",ТНТ
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 HD" tvg-logo="https://spbtvonline.ru/logo/tnt4.png"  tvg-id="TNT4-HD" group-title="Развлекательные",ТНТ4 HD
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TNT4.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
+#EXTINF:-1 tvg-name="Хоккей ТВ" tvg-logo=""  tvg-id="Hockey-TV" group-title="Спортивные",Хоккей ТВ
+https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
+#EXTINF:-1 tvg-name="CHD-TV Rock" tvg-logo=""  tvg-id="CHD-TV-Rock" group-title="Музыкальные",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 tvg-name="Cinema" tvg-logo="https://iptvx.one/picons/cinema.png"  tvg-id="Cinema" group-title="Кинозал",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.h2o-designs.co.uk/wp-content/uploads/2015/03/1discover.png"  tvg-id="Discovery-Channel" group-title="Познавательные",Discovery Channel
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://karnei4.github.io/convert/img/9502.png"  tvg-id="Discovery-Science" group-title="Познавательные",Discovery Science
+http://46.8.46.14/DiscoveryScience/index.m3u8
 #EXTINF:-1 tvg-name="EuroNews" tvg-logo="https://matthesv.de/wp-content/uploads/2022/02/euronews.png"  tvg-id="EuroNews" group-title="Новости",EuroNews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
@@ -69,12 +97,37 @@ https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 http://192.162.64.99:5000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/29719204421.png"  tvg-id="Eurosport2-HD" group-title="Спортивные",Eurosport2 HD
 http://5.188.159.128:8070/eurosport2/index.m3u8
+#EXTINF:-1 tvg-name="Galaxy" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608025355519502_70.png"  tvg-id="Galaxy" group-title="Познавательные",Galaxy
+http://192.162.64.99:5200/play/a035/index.m3u8
+#EXTINF:-1 tvg-name="Hot Rock" tvg-logo=""  tvg-id="Hot-Rock" group-title="Музыкальные",Hot Rock
+https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="MTV 80s" tvg-logo="https://tvlistings.eu/img/serbia/logo/mtv-80s.png"  tvg-id="MTV-80s" group-title="Музыкальные",MTV 80s
+http://213.169.39.30:5137
+#EXTINF:-1 tvg-name="MTV 90s" tvg-logo="https://epg.iptvx.one/picons/mtv90s-uk.png"  tvg-id="MTV-90s" group-title="Музыкальные",MTV 90s
+http://213.169.39.30:5203
+#EXTINF:-1 tvg-name="MTV Hits" tvg-logo="https://karnei4.github.io/convert/img/5568.png"  tvg-id="MTV-Hits" group-title="Музыкальные",MTV Hits
+http://213.169.39.30:5257
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://www.americatvlistings.com/img/cl/logo/mtv-live.png"  tvg-id="MTV-Live" group-title="Музыкальные",MTV Live
+http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 tvg-name="Nano HD" tvg-logo="https://iptvx.one/picons/nano-hd.png"  tvg-id="Nano-HD" group-title="Познавательные",Nano HD
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="National Geo Wild" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nat-geo-wild_m.png"  tvg-id="National-Geo-Wild" group-title="Познавательные",National Geo Wild
+http://188.237.47.212:6005
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/National-Geographic-Channel.png"  tvg-id="National-Geographic" group-title="Познавательные",National Geographic
+http://46.8.46.14/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://res.cloudinary.com/uayeb/image/upload/f_auto,q_auto/v1604508866/concable/canales/nickelodeon_sw5cfz.png"  tvg-id="Nickelodeon" group-title="Детские",Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="O2" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020622302462_19.png"  tvg-id="O2" group-title="Музыкальные",O2
+https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 tvg-name="RU TV" tvg-logo="https://www.tvreclama.ru/upload/iblock/917/91791ead3a431678326a03277477286b.png"  tvg-id="RU-TV" group-title="Музыкальные",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-name="Russian Musicbox Gold" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608030645163017_36.png"  tvg-id="Russian-Musicbox-Gold" group-title="Музыкальные",Russian Musicbox Gold
+https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
+#EXTINF:-1 tvg-name="Russian MusicBox HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi74cxFi3Db0-tDfG1rVfwJQ30ZyXXDSRIpdT-DgUU39Qm4VxvRC0EppJvslxnes9eQAm1E5uGiTX1L91QXzjGMn7CXfPj2OYvYlDTDfP6-jzFf60_kmV98xvOwyPoNvw6vZAPNRKPIzkTv/s1600/Russian-Musicbox1.png"  tvg-id="Russian-MusicBox-HD" group-title="Музыкальные",Russian MusicBox HD
+https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+
 #EXTINF:-1 tvg-name="TV BRICS" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/tv-brics.png"  tvg-id="TV-BRICS" group-title="Эфирные",TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 Action" tvg-logo="https://crdtv.net/b/templates/ottch/tv1000-action.png"  tvg-id="viju-TV1000-Action" group-title="Кино и сериалы",viju TV1000 Action
