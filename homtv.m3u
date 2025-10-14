@@ -14,7 +14,7 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-name="Матч!" tvg-logo="https://iptvx.one/picons/match-tv.png" tvg-id="Match!" group-title="Спортивные",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="КХЛ ТВ" tvg-logo="https://dbtv.ru/upload/icons/kxl-hd.png" tvg-id="KHL-TV" group-title="Спортивные",КХЛ ТВ
+#EXTINF:-1 tvg-name="КХЛ Prime" tvg-logo="https://dbtv.ru/upload/icons/kxl-hd.png" tvg-id="KHL-TV" group-title="Спортивные",КХЛ Prime
 http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="NTV-Hit" group-title="Русский кинозал",НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
