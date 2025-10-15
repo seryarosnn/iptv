@@ -28,6 +28,8 @@ https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel.m3u8?dr
 https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 tvg-name="Красная линия" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png"  tvg-id="Red-line" group-title="Эфирные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-name="Криминальное HD" tvg-logo="https://epgx.site/p/kriminalnoe-hd.png"  tvg-id="Crime-HD" group-title="Кино и сериалы",Криминальное HD
+http://stream-msk-14.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 tvg-name="КУХНЯ-ТВ" tvg-logo="https://72it.ru/wp-content/uploads/2022/05/logo.png"  tvg-id="KITCHEN-TV" group-title="Эфирные",КУХНЯ-ТВ
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 tvg-name="КХЛ" tvg-logo="https://khlshop.com/image/cache/catalog/LOGO/khl%20logo-200x200h.png"  tvg-id="KHL" group-title="Спортивные",КХЛ
@@ -56,6 +58,8 @@ http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 tvg-name="Мультиландия" tvg-logo="https://crdtv.net/b/templates/ottch/multimania.png"  tvg-id="Multilandia" group-title="Детские",Мультиландия
 http://91.194.191.241:8081/chid62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Наука 2.0" tvg-logo="https://iptvx.one/picons/nauka-20.png"  tvg-id="Science-2.0" group-title="Познавательные",Наука 2.0
+http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 tvg-name="НТВ Право" tvg-logo=""  tvg-id="NTV-Pravo" group-title="Эфирные",НТВ Право
 https://stream-msk-14.ott.tricolor.tv/dtv/id938_MSKSG-PVR-1--NTV_Pravo_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 tvg-name="НТВ Сериал" tvg-logo="https://sevstar.net/iptv-channel-logo/4019.png"  tvg-id="NTV-Series" group-title="Кино и сериалы",НТВ Сериал
@@ -219,9 +223,6 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD
 
 #EXTINF:-1 tvg-name="Sony Sci-Fi" tvg-logo="https://tricolor-38.ru/Canaly_5/epg38.png"  tvg-id="Sony-Sci-Fi" group-title="Кино и сериалы",Sony Sci-Fi
 http://tvip.btk.teleos.ru:8081/chid77/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TiJi" tvg-logo="https://i.otzovik.com/objects/b/60000/52098.png"  tvg-id="TiJi" group-title="Детские",TiJi
-http://193.27.209.122/tiji/index.m3u8
-
 #EXTINF:-1 tvg-name="TV BRICS" tvg-logo="https://jitv.ru/wp-content/uploads/2019/09/tv-brics.png"  tvg-id="TV-BRICS" group-title="Эфирные",TV BRICS
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-name="TV1000" tvg-logo="https://karnei4.github.io/convert/img/9948.png"  tvg-id="TV1000" group-title="Кино и сериалы",TV1000
