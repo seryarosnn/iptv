@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-name="Мульт" tvg-logo="https://cosmos-telecom.by/files/channel/1-mult.png"  tvg-id="Cartoon" group-title="Детские",Мульт
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
+#EXTINF:-1 tvg-name="Уникум" tvg-logo="https://tvlistings.eu/img/russia/logo/unikum.png"  tvg-id="Unique" group-title="Детские",Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
